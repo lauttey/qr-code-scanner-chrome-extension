@@ -2,7 +2,7 @@
 
 A responsive, and 💜PURPLE💜 Chrome Extension that identifies multiple QR codes on your screen simultaneously and overlays an interactive **Heads-Up Display (HUD)** for quick access.
 
-Chrome Extension Link: https://chromewebstore.google.com/detail/qr-scanner-by-lau/pfpekalpjjfelplgmoamhmkmdkpaejgg
+Chrome Extension Link: https://chromewebstore.google.com/detail/qr-code-scanner/pfpekalpjjfelplgmoamhmkmdkpaejgg
 
 ![Screenshot of the extension in action](demo.png)
 
